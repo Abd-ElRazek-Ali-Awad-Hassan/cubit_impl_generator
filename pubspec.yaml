@@ -1,0 +1,22 @@
+name: cubit_impl_generator
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  analyzer: '>=5.2.0 <7.0.0'
+  build: ^2.0.0
+  code_builder: ^4.10.0
+  cubit_impl_annotation:
+    git: https://github.com/mahmood1996/cubit_impl_annotation.git
+  failures:
+    git: https://github.com/mahmood1996/failures.git
+  generic_reader: ^0.4.0
+  source_gen: any
+
+dev_dependencies:
+  test: any
+  dart_flutter_team_lints: ^2.0.0
+  dart_style: ^2.3.4
+  source_gen_test: ^1.0.6

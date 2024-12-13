@@ -1,0 +1,10 @@
+(Done) validate Source to be a class.
+(Done) validate Source is annotated with @GenerateCubitImpl.
+(Done) generate a cubit mixin with name that is prefixed with _$ and suffixed with Mixin.
+(Done) generate command interface.
+(Done) generate command class for each method annotated with @Command.
+(Done) show loading method.
+(Done) onEither method.
+(Done) Command Impl
+(Done) generate method for annotated cubit method that calls async operations.
+-> generate mixin method for calling Command.
