@@ -9,9 +9,9 @@ dependencies:
   build: ^2.0.0
   code_builder: ^4.10.0
   cubit_impl_annotation:
-    git: https://github.com/mahmood1996/cubit_impl_annotation.git
+    git: https://github.com/Abd-ElRazek-Ali-Awad-Hassan/cubit_impl_annotation.git
   failures:
-    git: https://github.com/mahmood1996/failures.git
+    git: https://github.com/Abd-ElRazek-Ali-Awad-Hassan/failures.git
   generic_reader: ^0.4.0
   source_gen: any
 
